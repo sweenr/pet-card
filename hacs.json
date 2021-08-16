@@ -1,5 +1,5 @@
 {
-    "name": "Boilerplate Card",
+    "name": "Dog Card",
     "render_readme": true,
-    "filename": "boilerplate-card.js"
+    "filename": "dog-card.js"
 }
